@@ -10,7 +10,7 @@ except(IOError, ImportError):
 setup(name='crackertool',
 version='0.1',
 description='A PIP FOR INSTALLING CRACKER-TOOL OF CRACKER911181',
-license="GNU General Public License v3.0",
+license="MIT",
 long_description=long_description,
 long_description_content_type='text/markdown',
 author='cracker911181',
