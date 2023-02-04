@@ -8,7 +8,7 @@ except(IOError, ImportError):
 	long_description = open('README.md').read()
 
 setup(name='crackertool',
-version='0.1',
+version='0.2',
 description='A PIP FOR INSTALLING CRACKER-TOOL OF CRACKER911181',
 license="MIT",
 long_description=long_description,
